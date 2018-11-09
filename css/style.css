@@ -1,0 +1,11 @@
+.chng{
+	position:absolute;
+	height:186px;
+	width:100%;
+}
+.chng img:last-child{
+	display:none;
+}
+.search{
+	margin-left:30%;
+}
